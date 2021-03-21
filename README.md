@@ -1,0 +1,2 @@
+# Sign-Language-MNIST
+Objective 1 : Pre-process and check sign language image data, this involved reshaping and normalising. Followed by checking some images and the distributions within each of the sets.  Objective 2:  Build and train a convolutional neural network which will recognise the input image sign and return the associated letter.  Objective 3: Use the model to categorise our own images.
